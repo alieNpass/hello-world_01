@@ -3,5 +3,9 @@ hello-world_01
 
 This is my first demo repository ,thank you
 
+class Demo{
 
-What am I doing ?
+public static void main(String args[]){
+    System.out.println("Hello world!");
+  }
+}
